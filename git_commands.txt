@@ -1,13 +1,16 @@
-checking git version - git --version
-help command - git help config("gives manual of commands")
-Creating git repositories - git init
+checking git version       -  " git --version"
 
-Make changes - git add "some file", git commit,  git status
+help command               -  " git help config" ("gives manual of commands")
 
-Sync Repositories - git push
-		    git pull
-		    git remote add origin "repository file https://........"
+Creating git repositories  -  " git init"
 
-Parallel Development - branch
-		 	merge
-			rebase
+Make changes               -  "git add" "some file",
+			       "git commit",  "git status"
+
+Sync Repositories          -  "git push"
+		              "git pull"
+		              "git remote add origin" "repository file https://........"
+
+Parallel Development      -   branch
+		 	      merge
+			      rebase
